@@ -12,7 +12,7 @@ namespace Invest
         private string agreementdate;
         private string calculatedate;
 
-        //private double i;
+        
         private int agday; //Agreement date(day)
         private int agmonth; //Agreement date (month)
         private int agyear; //Agreement date (year)
